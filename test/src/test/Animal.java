@@ -6,6 +6,7 @@ public class Animal {
 		super();
 		// TODO Auto-generated constructor stub
 		int age;
+		String name;
 	}
 
 }
